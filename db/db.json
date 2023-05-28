@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "content": "hello1",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "content": ":)",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "content": "12",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "content": "aloha",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "content": "todo",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "content": "meow",
+      "completed": true,
+      "id": 9
+    }
+  ]
+}
